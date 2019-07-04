@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Assistant|Noto+Sans+SC|Noto+Sans+TC&display=swap');
+
+body{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Noto Sans SC', sans-serif;
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 100!important;
+}
+
+h1,h2,h3,h4,h5,h6,small,label,span,a,button{
+    font-weight: 100!important;
+}
+
+.form-control {
+    border-raius:0px!important;
+}
